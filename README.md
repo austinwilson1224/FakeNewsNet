@@ -209,3 +209,10 @@ If you use this dataset, please cite the following papers:
 
 (C) 2019 Arizona Board of Regents on Behalf of ASU
 
+
+
+
+comments by Austin 
+
+-- this is from the config.json file
+"data_features_to_collect" : ["news_articles", "tweets", "retweets", "user_profile", "user_timeline_tweets", "user_followers", "user_following"]

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/austinwilson/coding/FakeNewsNet/code/resource_server/app.py", line 3, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
