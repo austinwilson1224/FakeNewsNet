@@ -1,0 +1,4 @@
+pip install -r requirements.txt
+cd code
+nohup python -m resource_server.app &> keys_server.out&
+nohup python main.py &> data_collection.out&
